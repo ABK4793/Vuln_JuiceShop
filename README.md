@@ -1,5 +1,5 @@
 ### Stashing to main
-### Develop to main post marking 11828 Reverse tab nabbing as FP
+
 
 # reveal.js [![Build Status](https://travis-ci.org/hakimel/reveal.js.svg?branch=master)](https://travis-ci.org/hakimel/reveal.js)
 
